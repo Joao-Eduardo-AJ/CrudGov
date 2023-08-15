@@ -1,0 +1,7 @@
+br/com/syonet/gov/entity/City.class
+br/com/syonet/gov/Application.class
+br/com/syonet/gov/entity/State.class
+br/com/syonet/gov/service/EntityManagerProvider.class
+br/com/syonet/gov/service/Service.class
+br/com/syonet/gov/entity/Region.class
+br/com/syonet/gov/persistence/Persistence.class
